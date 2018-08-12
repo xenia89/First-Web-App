@@ -1,0 +1,15 @@
+<nav class="navbar navbar-inverse">
+
+		<a href="/" class="navbar-brand">Bookster</a>
+
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="#">Home</a></li>
+			<li><a href="/list-todos.do">Book Wishlist</a></li>
+			<li><a href="https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die">Books To Read</a></li>
+		</ul>
+
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout.do"><span class="glyphicon glyphicon-user"></span>Logout</a></li>
+		</ul>
+
+	</nav>
